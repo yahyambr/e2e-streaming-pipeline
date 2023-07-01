@@ -1,0 +1,7 @@
+**.zip
+**.drawio
+**.DS_Store
+**.tfstate*
+**terraform-provider*
+**/.terraform/*
+**.terraform*
